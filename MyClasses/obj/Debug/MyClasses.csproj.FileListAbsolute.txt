@@ -1,0 +1,6 @@
+D:\Repos\VisualStudio\MyClasses\MyClasses\bin\Debug\MyClasses.dll
+D:\Repos\VisualStudio\MyClasses\MyClasses\bin\Debug\MyClasses.pdb
+D:\Repos\VisualStudio\MyClasses\MyClasses\obj\Debug\MyClasses.csprojAssemblyReference.cache
+D:\Repos\VisualStudio\MyClasses\MyClasses\obj\Debug\MyClasses.csproj.CoreCompileInputs.cache
+D:\Repos\VisualStudio\MyClasses\MyClasses\obj\Debug\MyClasses.dll
+D:\Repos\VisualStudio\MyClasses\MyClasses\obj\Debug\MyClasses.pdb
